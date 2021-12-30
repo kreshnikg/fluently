@@ -1,2 +1,2 @@
-# jFluently
-Lightweight ORM (Object-relational mapping) library for java.
+# Fluently
+Lightweight ORM (Object-relational mapping) library for java, based on Active Record.
