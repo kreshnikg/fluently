@@ -1,4 +1,4 @@
-package com.example.demo.fluently;
+package com.example.fluently;
 
 import java.util.ArrayList;
 import java.util.List;
