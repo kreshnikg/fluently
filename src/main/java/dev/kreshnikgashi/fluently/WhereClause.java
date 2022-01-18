@@ -1,4 +1,4 @@
-package com.example.fluently;
+package dev.kreshnikgashi.fluently;
 
 public class WhereClause {
     private String column;

@@ -1,4 +1,4 @@
-package com.example.fluently;
+package dev.kreshnikgashi.fluently;
 
 import javax.persistence.EntityManager;
 

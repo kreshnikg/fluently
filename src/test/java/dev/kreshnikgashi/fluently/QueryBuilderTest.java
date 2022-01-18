@@ -1,4 +1,4 @@
-package com.example.fluently;
+package dev.kreshnikgashi.fluently;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

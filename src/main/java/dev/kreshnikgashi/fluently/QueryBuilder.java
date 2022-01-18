@@ -1,4 +1,4 @@
-package com.example.fluently;
+package dev.kreshnikgashi.fluently;
 
 import java.util.ArrayList;
 import java.util.List;
