@@ -1,4 +1,4 @@
-package dev.kreshnikgashi.fluently;
+package dev.kresh.fluently;
 
 public class WhereClause {
     private String column;
